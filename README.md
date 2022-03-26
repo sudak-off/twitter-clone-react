@@ -1,1 +1,5 @@
-material ui
+TypeScript
+ReactJS
+Material UI
+React-Router
+Classnames
